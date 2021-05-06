@@ -1,0 +1,11 @@
+{
+  "name": "wheatherappnodejs",
+  "version": "1.0.0",
+  "description": "this is created by sanket kothiya",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanket kothiya",
+  "license": "ISC"
+}

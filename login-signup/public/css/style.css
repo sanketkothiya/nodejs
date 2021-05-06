@@ -1,0 +1,35 @@
+body {
+    background: rgb(198, 219, 218);
+}
+
+.reg-btn {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.login-btn {
+    margin-left: 20px;
+}
+
+.signup-container {
+    font-size: 25px;
+    display: inline-block;
+    margin-left: 520px;
+    margin-top: 50px;
+    width: 500px;
+    height: auto;
+}
+
+.name-container {
+    margin-top: 50px;
+    font-size: 25px;
+    color: rgb(255, 145, 0);
+}
+
+.name-container h1 span {
+    color: rgb(35 123 50);
+}
+
+.name-container h3 {
+    color: rgb(35 123 50);
+}
