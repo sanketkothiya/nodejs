@@ -4,12 +4,13 @@
   "description": "chalk_validator",
   "main": "index.js",
   "dependencies": {
-    "chalk": "^4.1.0",
+    "chalk": "^4.1.1",
+    "emitter": "0.0.5",
     "express": "^4.17.1",
     "hbs": "^4.1.2",
     "path": "^0.12.7",
     "requests": "^0.3.0",
-    "validator": "^13.5.2"
+    "validator": "^13.6.0"
   },
   "devDependencies": {},
   "scripts": {
